@@ -15,6 +15,8 @@ var express = require('express'),
 var env = process.env.NODE_ENV || 'development';
 var BOOMRANG_APP_ID = "--insert-boomrang-app-id-here--";
 var BOOMRANG_APP_SECRET = "--insert-boomrang-app-secret-here--";
+var BOOMRANG_APP_ID = "nivoacctest";
+var BOOMRANG_APP_SECRET = "n!v0P@ssw0rd1032";
 
 
 // Passport session setup.
